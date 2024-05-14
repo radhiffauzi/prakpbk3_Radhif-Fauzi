@@ -39,7 +39,6 @@ function removeTodo(todo) {
     </div>
     <div class="todo-list">
       <div class="header">
-        <img src="./assets/list.gif" alt="icon" class="icon">
         <h1 class="list-title"><span>My</span><span>List</span></h1>
       </div>
       <ul class="list-items">
@@ -67,7 +66,6 @@ function removeTodo(todo) {
 .container {
   display: flex;
   height: 100vh;
-  background: url('./assets/2825710.gif') no-repeat center center/cover;
   position: relative;
   justify-content: space-between;
 }
